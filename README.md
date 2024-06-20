@@ -1,0 +1,1 @@
+A Student Attendance Management System is an application designed to manage and track student attendance efficiently. This system aims to reduce manual errors, and provide valuable insights through detailed reports and statistics.
